@@ -19,7 +19,10 @@
   <img align="center" alt="Paivs-C++" height="30" width="80" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img align="center" alt="Paivs-Csharp" height="30" width="60" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="center" alt="Paivs-MCOF" height="30" width="190" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
-   ![Snake animation](https://github.com/Paivs/Paivs/blob/output/github-contribution-grid-snake.svg)
 </div>	
   
 ##
+  
+<div> 
+  ![Snake animation](https://github.com/Paivs/Paivs/blob/output/github-contribution-grid-snake.svg)
+</div>	
