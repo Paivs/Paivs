@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Paivs // Gustavo Paiva
-- 👀 I’m interested in Python, JavaScript, C (and sometimes PLC's programming)
+- 👀 I’m interested in Java, Python, C#
 - 🌱 I’m currently learning OOP and data science
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me contatogppe@gmail.com
