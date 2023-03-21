@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Paivs // Gustavo Paiva
-- 👀 I’m interested in Java, Python, C#
-- 🌱 I’m currently learning OOP and data science
+- 👀 I’m interested in Java, Python, Web Developing and IT Infrastructure
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me gustavo.paiva.gp1@gmail.com
 
