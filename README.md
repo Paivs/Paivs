@@ -17,7 +17,7 @@
   <img align="center" alt="Paivs-Js" height="30" width="110" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
  <img align="center" alt="Paivs-C++" height="30" width="80" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img align="center" alt="Paivs-Spring" height="30" width="110" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"> 
-  <img align="center" alt="Paivs-MCOF" height="30" width="190" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+<!--   <img align="center" alt="Paivs-MCOF" height="30" width="190" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"> -->
 </div>	
   
 ##
